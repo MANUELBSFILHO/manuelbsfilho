@@ -1,7 +1,6 @@
 ### Apaixonado por tecnologia ✔️ 
 
 
-🖥️ Estudante de Engenharia da Computação
 
  <div>
   <a href="https://github.com/manuelbsfilho">
