@@ -7,8 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuelbsfilho&show_icons=true&theme=Showing icons&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbsfilho&layout=compact&langs_count=7&theme=Showing icons"/>
 </div>
- 
- 
+  
 ##  Tecnologias que conheço  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,10 +21,7 @@
   <img align="center" alt="Carlim-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="Carlim-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">  
   <img align="center" alt="Carlim-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-plain.svg">  
-  <img align="center" alt="Carlim-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">  
- 
-  ##
-<div> 
+
  <h2
  <a href = "mailto:mbsfilho.engenharia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://linkedin.com/in/manuel-borges-b826a727/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
