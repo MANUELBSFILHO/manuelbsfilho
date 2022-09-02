@@ -33,13 +33,9 @@
  
 ![Snake animation](https://github.com/manuelbsfilho/manuelbsfilho/blob/output/github-contribution-grid-snake.svg)
  
- <p align = "justify">
+ <p align = "left">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=manuelbsfilho&theme=radical&hide_border=falso" width = 400>
 </p>
  
 </div>
 
-<div align="justify">
-  <a href="https://github.com/manuelbsfilho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbsfilho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
