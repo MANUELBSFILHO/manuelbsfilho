@@ -38,3 +38,8 @@
 </p>
  
 </div>
+
+<div align="justify">
+  <a href="https://github.com/manuelbsfilho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbsfilho&layout=compact&langs_count=7&theme=dracula"/>
+</div>
