@@ -1,8 +1,6 @@
 
 ### Apaixonado por tecnologia ✔️ 
 <h2
-<a href="https://linkedin.com/in/manuelborgesfilho/" target="_blank"><img src="https://img.shields.io/badge/- linkedin -%23333?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-<a href="https://twitter.com/ManuelBSFilho/" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
 <a href = "https://api.whatsapp.com/send?phone=5571996521211&text=Como%20vai%3F"><img src="https://img.shields.io/badge/WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <img height="30" src="https://komarev.com/ghpvc/?username=MANUELBSFILHO&color=blue" alt="MANUELBSFILHO"/>
  
