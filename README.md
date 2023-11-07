@@ -1,5 +1,5 @@
 
-### Apaixonado por tecnologia ✔️ 
+### Apaixonado por Desenvolvimento ✔️ 
 <h2
 <a href = "https://api.whatsapp.com/send?phone=5571996521211&text=Como%20vai%3F"><img src="https://img.shields.io/badge/WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <img height="30" src="https://komarev.com/ghpvc/?username=MANUELBSFILHO&color=blue" alt="MANUELBSFILHO"/>
