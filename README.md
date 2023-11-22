@@ -9,8 +9,8 @@
 <p align = "left">
 <img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=manuelbsfilho&amp;theme=radical">
 </p>
-<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>
-<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>
+<img height="48px" width="48px" alt="Icone html" src="https://skillicons.dev/icons?i=html"/>
+<img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=css"/>
 <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
 </div>
 <h2
