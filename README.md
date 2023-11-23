@@ -9,9 +9,9 @@
 <p align = "left">
 <img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=manuelbsfilho&amp;theme=radical">
 </p>
-<img height="48px" width="48px" alt="Icone html" src="https://skillicons.dev/icons?i=html"/>
-<img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=css"/>
-<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
+<img height="38px" width="38px" alt="Icone html" src="https://skillicons.dev/icons?i=html"/>
+<img height="38px" width="38px" alt="Icone css" src="https://skillicons.dev/icons?i=css"/>
+<img height="38px" width="38px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
 </div>
 <h2
 <img height="28px" width="28px" alt="Icone spring boot" src="https://skillicons.dev/icons?i=spring boot"/>
