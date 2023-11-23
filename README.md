@@ -12,6 +12,7 @@
 <img height="38px" width="38px" alt="Icone html" src="https://skillicons.dev/icons?i=html"/>
 <img height="38px" width="38px" alt="Icone css" src="https://skillicons.dev/icons?i=css"/>
 <img height="38px" width="38px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
+<img height="28px" width="28px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>
 </div>
 <h2
 <img height="28px" width="28px" alt="Icone spring boot" src="https://skillicons.dev/icons?i=spring boot"/>
