@@ -17,6 +17,8 @@
 <img height="28px" width="28px" alt="Icone spring boot" src="https://skillicons.dev/icons?i=spring boot"/>
 <img height="28px" width="28px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
 <img height="28px" width="28px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>
+<img height="28px" width="28px" alt="Icone spring boot" src="https://skillicons.dev/icons?i=spring boot"/>
+<img height="28px" width="28px" alt="Icone eclipse" src="https://skillicons.dev/icons?i=eclipse"/>
 <img height="28px" width="28px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
 
 
